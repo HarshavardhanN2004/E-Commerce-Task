@@ -1,0 +1,25 @@
+# React
+e-commerce-frontend/node_modules/
+e-commerce-frontend/build/
+
+# React environment files
+e-commerce-frontend/.env
+e-commerce-frontend/.env.local
+e-commerce-frontend/.env.development
+e-commerce-frontend/.env.production
+
+# .NET
+E-Commerce-Backend/bin/
+E-Commerce-Backend/obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
